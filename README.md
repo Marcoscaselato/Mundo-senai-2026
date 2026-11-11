@@ -9,7 +9,7 @@ Projeto de apresentação interativa desenvolvido para o evento **Mundo SENAI 20
 ---
 
 ### 🔗 Atalhos Rápidos
-- 🖥️ **Apresentação Interativa (Arquivo do Projeto):** [Abrir `index.html`](./index.html)
+- 🖥️ **Apresentação Interativa (Arquivo do Projeto):** [Abrir `https://marcoscaselato.github.io/Mundo-senai-2026/`](https://marcoscaselato.github.io/Mundo-senai-2026/)
 - 🌐 **Aplicação Online (Render):** [cheflogico.onrender.com](https://cheflogico.onrender.com/)
 
 ---
