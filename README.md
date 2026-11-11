@@ -93,8 +93,3 @@ A **Lógica de Programação** é a base universal para a criação de qualquer 
 ## 🔧 Como Executar Localmente
 
 Por ser uma aplicação totalmente estática em HTML5, CSS3 e JavaScript puro, não é necessária a instalação de dependências ou servidores backend.
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/Marcoscaselato/portfolio.git](https://github.com/Marcoscaselato/portfolio.git)
-   
